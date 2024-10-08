@@ -1,0 +1,8 @@
+# if else Example
+
+name = input("Enter name: ")
+if name == 'java':
+  print("Hello Java")
+else:
+  print("Hello Python")
+print("How are you")
