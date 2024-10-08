@@ -1,0 +1,10 @@
+# if-elif-else Example
+brand = input("Enter your favourite brand: ")
+if brand == "RC":
+  print("It is childrens brand")
+elif brand == "KF":
+  print("It is not that much kick")
+elif brand == "FO":
+  print("Buy one get one free")
+else:
+  print("Other brand are not recommended")
