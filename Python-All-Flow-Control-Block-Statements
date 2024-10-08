@@ -1,0 +1,44 @@
+#  Python-All-Flow-Control-Block-Statements
+# 1. if
+# 2. if-elif
+# 3. if-elif-else
+# 4. break
+# 5. continue
+# 6. pass
+# 7. for loop
+# 8. while loop
+
+## Conditional Statement
+# if 
+# syntax: 
+# if condition : statement
+# or
+#  if condition:
+#   statement-1
+#   statement-2
+#   statement-3
+# if condition is true then statements will be executed.
+
+
+# if-else
+# syntax:
+# if condition :
+#   statement-1
+#   statement-2
+# else:
+#   statement-3
+#   statement-4
+# if condition is true then first statements will be executed. other wise next statements will be executed.
+
+
+# if-elif-else
+# syntax:
+# if condition :
+#   statement-1
+# elif condition:
+#   statement-2
+# elif condition:
+#   statement-3
+# else:
+#   Default Action
+# Based condition the corresponding action will be executed.
